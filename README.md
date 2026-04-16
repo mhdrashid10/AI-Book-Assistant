@@ -62,8 +62,13 @@ Go to Ask Question section and test RAG
 Chat history will be saved automatically
 
 ## API Endpoints
+
 *Method*  *Endpoinnt*          *Description*
+
 GET     /api/books/         List all books
+
 POST    /api/upload/        Add book + generate AI insights
+
 POST    /api/ask/           RAG Question Answering
+
 GET     /api/chat/history/  View chat history
